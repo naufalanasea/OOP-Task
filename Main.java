@@ -1,5 +1,4 @@
-//Penerapan Enkapsulasi(y), Inheritance(y), Polymorphism(y), interface(y),
-// final (y), abstract class (y), abstract method (y), overriding method(y), overloading method (y), constructor (y)
+
 
 //Penggunaan Enkapsulasi
 class Mahasiswa {
